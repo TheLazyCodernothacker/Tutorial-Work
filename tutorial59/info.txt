@@ -1,0 +1,11 @@
+When you a function, you have arguments that are explicit that you type by yourself.
+x(5, 10, this) 'this' is invisible
+function x (a,b){
+    console.log(this); this can change from the way you call it
+}
+Making predictable functions are now a little bit more complicated. You have to think about the context of the function.
+Functions are objects in javascript, making stuff complicated.
+Strict mode changes the way 'this' works. 
+"this" changes depending on how you call the function.
+dog.x() //this is the dog object
+'this' when in a function is the object that called the function. 

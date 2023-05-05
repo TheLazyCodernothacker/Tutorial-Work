@@ -1,0 +1,19 @@
+Javascript is easy to pick up, but stuff works differently.
+Javascript doesn't need to be installed unlike others
+Engines are things that run code for humans.
+Javascript has a lot of different engines that are uses and 
+not all of them are the same.
+The standard ES and javascript is an implementation of this standard.
+If our code needs to be implemented for all of the different engines,
+they need to make sure the engines can all use the code with a test.
+The test is called 'Test 262' and you can see how much the engines follow
+the ES standard. The engines are part of the webbrowser. 
+Node.js is the new way to process javascript, because javascript should be
+able to be ran in different environments. Node.js holds data on the backened server.
+Compiled languages are coding languages that can be understood by computers that
+can just be ran. Interpreted is when the language has to be ran from line by line
+as you are running it. This is not veryn important in the beginning, just need to make 
+sure that the code works for now. Javascript is mainly compiled because of the engine.
+The engines normally just use JIT compilation and will then be compiled and ran.
+This is an implementation detail and is tied with the engine, and not all engines compiled
+and not all interpret. 

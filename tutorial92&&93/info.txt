@@ -1,0 +1,3 @@
+Go to the console and then do document.childNodes and there will be a lot of children
+A lot of stuff is automatically added and doesn't contribute to the page
+YOu can see the whole structure of the page
