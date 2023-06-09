@@ -1,0 +1,8 @@
+Variable info time!
+ES has some new stuff and has been updated.
+When you use code it might not work on certain browsers because it's not the same version.
+When you create a variable with the 'var' keyword, it only exists and is changed in the block scope.
+If you check for a variable with 'var' in a function, it will then check the global scope, the window.
+You can easily manipulate variables in the global scope.
+Welcome "let" and "const". When you use let in an if statement, it doesn't change it from previous variables,
+it declares a new variable in the block scope. Const works the same way, but it is constant and it cannot be changed.

@@ -1,0 +1,9 @@
+Continue working, there is more Javascript stuff. 
+Things that you can start learning are stuff like technical stuff
+This is if you are interested.
+Choose a framework, like React, Angular, Vue, etc.
+You can then make more sofisticated websites.
+Back-end is something else you could do.
+Do more APIs and learn more about promises
+Have fun with it, and don't be afraid to ask questions. //stupid recommendations
+

@@ -1,0 +1,14 @@
+There a few types of loops
+All loops have ICU.
+They have initilization where they set a variable to something
+They have a condition where they figure out what it needs for it to work
+They have an update that will change the variable to break the loop.
+int i = 0;
+while(i < 10){
+    //code
+    //you need to update the variable so it won't break everything
+    //for example i++;
+}
+for loops do the same thing and put the ICU all into ()
+while loops are used to make a loop that will stop when the users says stop for example
+for loops are used to make a loop that will stop when the condition is met 
